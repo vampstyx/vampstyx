@@ -1,8 +1,8 @@
 <!-- level 1: simple bio and stats -->
-<h3 align="center"> $${\color{purple}⟡ 　　﹒  　READ \space STRAWPAGE \space BEFORE \space INTERACT \space !　　◞}$$ </h3>
+<h3 align="center"> $${\color{cyan}⟡ 　　﹒  　READ \space STRAWPAGE \space BEFORE \space INTERACT \space !　　◞}$$ </h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/32978b84-9735-43de-ad7d-045083b36ff8" alt="vampstyx's custom image"/>
+  <img src="https://github.com/user-attachments/assets/496fadd1-e33b-44f5-803a-371e5c0f5bf1" alt="vampstyx's custom image"/>
 </p>
 
 　<h3 align="center">﹑　 ཀ 　[ATABOOK](https://vampstyx.atabook.org/)　﹒ 　[STRAWPAGE](https://gunss.straw.page)　﹒　　𓏵</h3>
